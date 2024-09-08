@@ -1,13 +1,15 @@
-
-body{
-    font-family: "Roboto", sans-serif;
+body {
+  font-family: "Roboto", sans-serif;
 }
 
-.card{
-    padding: 0;
+.card {
+  padding: 0;
 }
 
-p{
-    color: #707070;
+p {
+  color: #707070;
 }
 
+.p-1 {
+  text-decoration: line-through;
+}
