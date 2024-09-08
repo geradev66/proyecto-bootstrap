@@ -2,6 +2,9 @@ body {
   font-family: "Roboto", sans-serif;
 }
 
+nav {
+  height: 85px;
+}
 .card {
   padding: 0;
 }
