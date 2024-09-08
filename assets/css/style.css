@@ -13,3 +13,7 @@ p {
 .p-1 {
   text-decoration: line-through;
 }
+
+footer img {
+  padding-bottom: 15px;
+}
